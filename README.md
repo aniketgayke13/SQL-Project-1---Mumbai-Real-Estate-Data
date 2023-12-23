@@ -1,4 +1,4 @@
-# SQL-Project ---Mumbai-Real-Estate-Data
+# SQL_Project- Mumbai-Real-Estate-Data
 The aim of the project is to analyze and manipulate the data set of Mumbai housing data
 
 The below are the questions and queries written to answer those questions:-
